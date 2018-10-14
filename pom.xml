@@ -26,6 +26,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <name>Spring Boot - CRUD Booster</name>
   <description>Spring Boot - CRUD Booster</description>
+  <packaging>war</packaging>
   <properties>
     <arquillian.version>1.4.0.Final</arquillian.version>
     <awaitility.version>3.1.0</awaitility.version>
